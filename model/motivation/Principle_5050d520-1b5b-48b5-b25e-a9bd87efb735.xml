@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Één Identity Manager"
+    id="5050d520-1b5b-48b5-b25e-a9bd87efb735"
+    documentation="&lt;head>&#xD;&#xA;    &lt;style type=&quot;text/css&quot;>&#xA;      &lt;!--&#xA;        body { color: #000000; font-family: Dialog; font-size: 12px }&#xA;      -->&#xA;    &lt;/style>&#xD;&#xA;    &#xD;&#xA;  &lt;/head>&#xD;&#xA;  &lt;body>&#xD;&#xA;    &lt;p>&#xD;&#xA;      Gebruik van &amp;#233;&amp;#233;n centrale Identitymanager&#xD;&#xA;    &lt;/p>&#xD;&#xA;  &lt;/body>">
+  <properties
+      key="Laatste update"
+      value="IP 22"/>
+  <properties
+      key="Verplicht/Advies"
+      value="Verplicht"/>
+</archimate:Principle>

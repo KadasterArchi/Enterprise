@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang voor iedereen"
+    id="40b1ee29-ad7f-4862-a9b6-89be54476ab6"
+    documentation="Bron:&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Informatievraagstukken van de klant zijn leidend bij toegang en gebruik van het platform. &#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Op het moment dat we meer denken vanuit informatievraagstukken en hoe we hier onze maatschappij (overheid, burgers en ondernemers) het beste bij kunnen helpen, geven we een betere invulling aan onze platformrol en zal de geo-informatie nog meer stromen. Dit zorgt ervoor dat geo-informatie in de haarvaten komt van de elementaire processen van de overheid en de interacties die de burger, ondernemers en overheden met elkaar hebben.">
+  <properties
+      key="Identificatie"
+      value="EP06"/>
+  <properties
+      key="Sinds"
+      value="01-01-2019"/>
+  <properties
+      key="Versie"
+      value="0.9"/>
+</archimate:Principle>

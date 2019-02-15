@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Direct vind- en bruikbaar"
+    id="83cecac6-30bf-43d9-ac69-f9ba6eca7cd7"
+    documentation="We zorgen dat informatie direct vindbaar, gemakkelijk toegankelijk en bruikbaar is.">
+  <properties
+      key="Identificatie"
+      value="IA-05"/>
+</archimate:Requirement>

@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Viruele werkplaats"
+    id="d4925c74-6aa2-4e7a-8230-7cf6437c6c70"
+    documentation="Het verder invulling geven aan een ‘virtuele’ plek waar data en kennis gematched kunnen worden met de vragende kant. Blijvend nadenken over de te hanteren concepten en wie hier onze samenwerkende partijen zijn.">
+  <properties
+      key="Identificatie"
+      value="DV-06"/>
+</archimate:Requirement>

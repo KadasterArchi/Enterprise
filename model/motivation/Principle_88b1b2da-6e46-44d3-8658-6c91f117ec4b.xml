@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens uitwisseling is digitaal"
+    id="88b1b2da-6e46-44d3-8658-6c91f117ec4b"
+    documentation="&lt;head>&#xD;&#xA;    &lt;style type=&quot;text/css&quot;>&#xA;      &lt;!--&#xA;        body { color: #000000; font-family: Dialog; font-size: 12px }&#xA;      -->&#xA;    &lt;/style>&#xD;&#xA;    &#xD;&#xA;  &lt;/head>&#xD;&#xA;  &lt;body>&#xD;&#xA;    &lt;p>&#xD;&#xA;      Uitwisseling van gegevens gebeurt digitaal.&#xD;&#xA;    &lt;/p>&#xD;&#xA;  &lt;/body>">
+  <properties
+      key="Laatste update"
+      value="IP 20"/>
+  <properties
+      key="Verplicht/Advies"
+      value="Verplicht"/>
+</archimate:Principle>

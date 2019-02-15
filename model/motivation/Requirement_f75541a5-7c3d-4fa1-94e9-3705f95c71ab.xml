@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laag drempelig en intuitief"
+    id="f75541a5-7c3d-4fa1-94e9-3705f95c71ab"
+    documentation="Onze gebruikstoepassingen zijn intuïtief en laagdrempelig.">
+  <properties
+      key="Identificatie"
+      value="IA-06"/>
+</archimate:Requirement>

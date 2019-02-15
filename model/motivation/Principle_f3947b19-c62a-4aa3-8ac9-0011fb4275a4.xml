@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schaalbaarheid"
+    id="f3947b19-c62a-4aa3-8ac9-0011fb4275a4"
+    documentation="Applicaties en infrastructuur zijn schaalbaar.">
+  <properties
+      key="Laatste update"
+      value="IP 25"/>
+  <properties
+      key="Verplicht/Advies"
+      value="Verplicht"/>
+</archimate:Principle>

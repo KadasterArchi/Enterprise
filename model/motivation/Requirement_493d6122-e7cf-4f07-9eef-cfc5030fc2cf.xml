@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennisopbouw Big Data"
+    id="493d6122-e7cf-4f07-9eef-cfc5030fc2cf"
+    documentation="We investeren in ontwikkelingen en kennis op het gebied van data-analyse en -visualisatie. Het gaat om het bundelen van bestaande kennis op het gebied van eigen data met nog op te bouwen kennis op het gebied van externe data en data-analysecompetenties (statistiek, visualisatie, interpretatie, visualisatie). Hierbij moet ruimte zijn om te investeren in eigen kennis en om samenwerkingsverbanden aan te gaan met externe partijen om onze kennis te verrijken.">
+  <properties
+      key="Identificatie"
+      value="BI-03"/>
+</archimate:Requirement>

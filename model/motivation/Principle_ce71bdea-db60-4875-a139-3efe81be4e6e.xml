@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tijd- en plaatsonafhankelijk"
+    id="ce71bdea-db60-4875-a139-3efe81be4e6e"
+    documentation="&lt;head>&#xD;&#xA;    &lt;style type=&quot;text/css&quot;>&#xA;      &lt;!--&#xA;        body { color: #000000; font-family: Dialog; font-size: 12px }&#xA;      -->&#xA;    &lt;/style>&#xD;&#xA;    &#xD;&#xA;  &lt;/head>&#xD;&#xA;  &lt;body>&#xD;&#xA;    &lt;p>&#xD;&#xA;      Toepassingen zijn tijd- en plaats onafhankelijk te gebruiken.&#xD;&#xA;    &lt;/p>&#xD;&#xA;  &lt;/body>">
+  <properties
+      key="Laatste update"
+      value="IP 26"/>
+  <properties
+      key="Verplicht/Advies"
+      value="Verplicht"/>
+</archimate:Principle>

@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Need-to-know registratie"
+    id="f1573f63-2e2e-47d2-af5c-0359b4a5d33b"
+    documentation="&lt;head>&#xD;&#xA;    &lt;style type=&quot;text/css&quot;>&#xA;      &lt;!--&#xA;        body { color: #000000; font-family: Dialog; font-size: 12px }&#xA;      -->&#xA;    &lt;/style>&#xD;&#xA;    &#xD;&#xA;  &lt;/head>&#xD;&#xA;  &lt;body>&#xD;&#xA;    &lt;p>&#xD;&#xA;      Alleen die gegevens van een actor (Subject) worden vastgelegd als de &#xD;&#xA;      doelbinding met de levering aantoonbaar is.&#xD;&#xA;    &lt;/p>&#xD;&#xA;  &lt;/body>">
+  <properties
+      key="Laatste update"
+      value="LTB FP03"/>
+  <properties
+      key="Verplicht/Advies"
+      value="Verplicht"/>
+</archimate:Principle>

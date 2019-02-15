@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fundamentele waarden bij 'Big Data'"
+    id="6a3d3b73-709c-45bf-b92d-b8a24ff0158b"
+    documentation="Bron:&#xD;&#xA;https://www.rathenau.nl/nl/digitale-samenleving/de-datagedreven-samenleving&#xD;&#xA;https://www.raadvanstate.nl/adviezen/zoeken-in-adviezen/tekst-advies.html?id=13065&#xD;&#xA;https://www.wrr.nl/onderwerpen/big-data-privacy-en-veiligheid&#xD;&#xA;https://www.digitaleoverheid.nl/nldigibeter/&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Privacy en andere fundamentele waarden zijn geborgd bij toepassing van 'Big Data'&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Voor het delen van gegevens tussen burgers (als consument), bedrijven en overheidsorganisaties is vertrouwen een noodzakelijke voorwaarde. Zonder vertrouwen, zijn partijen niet bereid om gegevens beschikbaar te stellen. Hetzelfde geldt voor consumenten. Ook zij zullen minder geneigd zijn bedrijven en organisaties toestemming te geven voor het gebruik van hun gegevens, wanneer ze die niet vertrouwen. Garanties op het gebied van datakwaliteit en gegevensbeveiliging dragen bij aan vertrouwen. Daarnaast is er duidelijkheid nodig over hoe gegevens worden verwerkt en wie daarvoor verantwoordelijk is.&#xD;&#xA;&#xD;&#xA;Data genereren we grotendeels zelf, bijvoorbeeld door de sporen die we nalaten via het gebruik van mobiele apparaten. In combinatie met de sterk toegenomen digitale opslagcapaciteit, de groeiende computerkracht en nieuwe data-analysetechnieken spreekt men wel van het tijdperk van de ‘Big Data’.&#xD;&#xA;&#xD;&#xA;Om een goed gebruik van Big Data met stevige waarborgen voor privacy en andere fundamentele waarden vorm te geven, heeft de regering de WRR op 26 mei 2014 een adviesaanvraag over het thema ‘Big Data, privacy en veiligheid’ toegestuurd. In deze aanvraag staan vier hoofdvragen centraal:&#xD;&#xA;Kan en, zo ja, moet er een scherper onderscheid worden gemaakt tussen de toegang tot, de verzameling van en het gebruik van gegevens in privacyrecht en databescherming?&#xD;&#xA;Hoe kan het proces van profiling en datamining en andere analysetechnieken ten behoeve van de veiligheid voldoende transparant zijn zonder de effectiviteit ervan voor het veiligheidsbeleid te doorkruisen?&#xD;&#xA;Wat betekent de komst van kwantumcomputers voor het proces van gegevensverwerking en bescherming (encryptie)?&#xD;&#xA;Wat is de impact van Big Data op de gegevenshuishouding van de overheid en hoe kan de burger daarop invloed hebben?&#xD;&#xA;">
+  <properties
+      key="Identificatie"
+      value="EP05"/>
+  <properties
+      key="Sinds"
+      value="01-01-2019"/>
+  <properties
+      key="Versie"
+      value="0.9"/>
+</archimate:Principle>

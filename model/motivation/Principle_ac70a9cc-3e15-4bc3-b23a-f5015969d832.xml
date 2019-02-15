@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scheiding van processen en informatie"
+    id="ac70a9cc-3e15-4bc3-b23a-f5015969d832"
+    documentation="Bron:&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Registraties zijn een getrouwe weergave van ons beeld van de werkelijkheid.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Het ministerie van BZK en gemeenten zijn bezig om de beweging in gang te zetten naar een centrale objectenregistratie. De bronhouders willen de registraties vanuit hun eigen werkprocessen kunnen voeden. Geen koppelvlakken meer, maar voor gemeenten en andere bronhouders passende werkprocessen die ervoor zorgen dat de gegevens op verschillende manieren vanuit verschillende applicaties bijgewerkt kunnen worden.&#xD;&#xA;&#xD;&#xA;De gegevens in de basisregistraties geven een basale ordening van de werkelijkheid. We onderscheiden mensen, huizen, auto’s, wegen en andere elementen van de werkelijkheid. We richten de registraties in op basis van ons beeld van de werkelijkheid. En de bijhouding van deze registraties koppelen we aan gebeurtenissen in diezelfde werkelijkheid. &#xD;&#xA;&#xD;&#xA;In de huidige ketenbenadering is sprake van een reactieve bedrijfsvoering.  Met dit principe is een gedeelde informatieverzameling beschikbaar en partijen nemen zelf op basis van veranderingen in de informatie de beslissing om in actie te komen. Het resultaat van wat ze doen, verwerken ze in de informatieverzameling, maar leidt niet tot het geven van duwtjes. Andere partijen beslissen zelf om in actie te komen op basis van de nieuwe informatie.">
+  <properties
+      key="Identificatie"
+      value="EP03"/>
+  <properties
+      key="Sinds"
+      value="01-01-2019"/>
+  <properties
+      key="Versie"
+      value="0.9"/>
+</archimate:Principle>

@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Horizontale kennis"
+    id="a26a8e60-5b55-4553-af99-35ee9f492e31"
+    documentation="We schuiven op van specifieke beleidsdomeinen naar kennis over de ruimtelijke informatie om de (integrale) vraagstelling van onze klanten beter te kunnen beantwoorden.">
+  <properties
+      key="Identificatie"
+      value="BI-01"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klant staat centraal"
+    id="9b923031-3117-47d0-9935-f9e2ad61026b"
+    documentation="We luisteren actief naar onze klanten">
+  <properties
+      key="Laatste update"
+      value="DV 10"/>
+  <properties
+      key="Verplicht/Advies"
+      value="Verplicht"/>
+</archimate:Principle>

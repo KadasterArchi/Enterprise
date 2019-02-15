@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generieke platformdiensten"
+    id="70fa60c6-ae9b-46bd-a2d2-a671c8e05d91"
+    documentation="We gaan van voorzieningen en kennis per verticaal beleidsdomeinen (BAG, BRK, BGT, etc.) naar horizontale kennis en generieke platformdiensten.">
+  <properties
+      key="Identificatie"
+      value="IA-01"/>
+</archimate:Requirement>

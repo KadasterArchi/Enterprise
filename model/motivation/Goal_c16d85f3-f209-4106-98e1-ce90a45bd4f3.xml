@@ -1,0 +1,10 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geo informatie voor iedereen"
+    id="c16d85f3-f209-4106-98e1-ce90a45bd4f3"
+    documentation="We hebben de ambitie om geo-informatie voor iedereen toegankelijk te maken. Dit sluit aan op het voornemen in de Agenda Digitale Overheid om de wijze van beschikbaarstelling van geodata nog beter op de verschillende typen gebruikers af te stemmen. De basis voor een platform van geo-informatie bestaat uit de bestaande basisregistraties en voorzieningen in de NGII, de ontsluitingsmogelijkheden via PDOK, linked data en API’s. In de komende periode bouwen we het platform verder uit met mogelijkheden voor analyse van data.&#xD;&#xA;&#xD;&#xA;In overleg met bronhouders gaan we in de planperiode datasets onderling koppelen. Door gegevens in onderlinge samenhang te analyseren kunnen gebruikers inzicht krijgen in de oplossing van complexe vraagstukken. We werken aan de ondersteuning van gebruikers zonder technische kennis, door intuïtieve interactiemogelijkheden te ontwikkelen. Het platform moet inzetbaar zijn in verschillende toepassingsgebieden, zoals de Omgevingswet, de samenwerking met CBS en BZK in het stelsel van open data en nieuwe vormen van informatievoorziening. Bij de ontwikkeling en exploitatie van het platform werken we samen met partners uit de publieke en private sector. We gaan dit stapsgewijs ontwikkelen aan de hand van concrete vraagstukken van gebruikers.">
+  <properties
+      key="Sinds"/>
+  <properties
+      key="Versie"/>
+</archimate:Goal>

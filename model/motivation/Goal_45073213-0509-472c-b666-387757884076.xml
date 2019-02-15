@@ -1,0 +1,10 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meerdimensionale registratie"
+    id="45073213-0509-472c-b666-387757884076"
+    documentation="Historisch gezien leggen we rechten vast op het perceel (2D). Inmiddels neemt de complexiteit van onze ruimte dusdanig toe dat het vastleggen in het platte vlak niet meer voldoen. We werken aan het vastleggen van informatie in 3D, met historie en toekomst èn bruikbaar op verschillende schaalniveaus. Om het inschrijven van eigendom in 3D op grotere schaal toepasbaar te maken, ontwikkelen we in 2019 een gestandaardiseerde werkwijze. We ontwikkelen juridische kaders voor 3D-registratie zodat complexe rechtsverhoudingen beter kenbaar zijn voor raadplegers van de openbare registers. Daarnaast overleggen we in de planperiode met de normcommissie voor het Bouw informatiemodel (BIM) over het opnemen van inschrijfeisen in de BIM-standaard voor gebouwgegevens. Deze aanpassing biedt tevens de mogelijkheid om in samenwerking met gemeenten de gegevens voor de bijhouding van de BAG te gebruiken. Tenslotte onderzoeken we mogelijkheden voor verbetering van de kadastrale registratie van netwerken, onder meer door gebruik te maken van informatie over de ligging van netwerken die vanuit de KLIC-functie beschikbaar is. &#xA;&#xA;In 2018 is een productieversie van een driedimensionaal topografisch basisbestand gerealiseerd, in het kader van het strategisch partnerschap met het ministerie van BZK. Dit bestand is opgebouwd met behulp van automatische objectdetectie uit 3D-luchtfoto’s. Het 3D-basisbestand heeft interessante gebruiksmogelijkheden voor ruimtelijke ordening, energietransitie en vastgoedbeheer. In de planperiode onderzoeken we de mogelijkheden om te komen tot duurzame financiering voor onderhoud en doorontwikkeling van het 3D-basisbestand, zodat dit onderdeel kan worden van de nationale geo-informatie infrastructuur. Dit basisbestand kan onder andere gebruikt worden om BIM-modellen van gebouwen in de context van  hun omgeving te ontsluiten.">
+  <properties
+      key="Sinds"/>
+  <properties
+      key="Versie"/>
+</archimate:Goal>

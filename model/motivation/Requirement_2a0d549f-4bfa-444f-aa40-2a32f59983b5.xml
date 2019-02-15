@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gedeelde semantiek"
+    id="2a0d549f-4bfa-444f-aa40-2a32f59983b5"
+    documentation="De informatie op het platform wordt ontsloten op basis van een gegevenscatalogus. Belangrijk is dat de semantiek aansluit op andere gegevens van de overheid. Deze gegevenscatalogus zetten we op met andere partijen in het eco-systeem.">
+  <properties
+      key="Identificatie"
+      value="DV-01"/>
+</archimate:Requirement>

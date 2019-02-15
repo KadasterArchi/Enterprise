@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enkelvoudige opslag, meervoudig gebruik"
+    id="3f4dc045-5e4c-40aa-b247-b2ec296ea0b6"
+    documentation="Bron:&#xD;&#xA;https://vng.nl/samen-organiseren/common-ground&#xD;&#xA;https://www.digitaleoverheid.nl/archief/studiegroep-informatiesamenleving-en-overheid/documenten-2/dossierdocumentcontext/rapport-maak-studiegroep-informatiesamenleving-en-overheid/&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Wij slaan gegevens op bij de bron en deze worden daar bewerkt en gebruikt.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Nu ontsluiten overheden gegevens via koppelingen, die complex, kwetsbaar en duur zijn. Doordat de gegevens zijn ‘opgesloten’ binnen de informatiesystemen is de portabiliteit van gegevens en hergebruik ervan beperkt. Gegevens worden continue gekopieerd om de systemen in sync te houden. &#xD;&#xA;&#xD;&#xA;Deze beweging is ingezet vanuit het DSO en wordt momenteel versterkt en strategischer gemaakt door common ground van de gemeenten en het benoemen van deze bewegingen in meerdere digitale agenda’s.">
+  <properties
+      key="Identificatie"
+      value="EP02"/>
+  <properties
+      key="Sinds"
+      value="01-01-2019"/>
+  <properties
+      key="Versie"
+      value="0.9"/>
+</archimate:Principle>

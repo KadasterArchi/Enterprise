@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toestemming en doelbinding"
+    id="83ba58fa-4fef-4ac5-8c7f-dc153026ae5a"
+    documentation="Het regelen van toestemmingen en doelbindingen is ene voorwaarden voor het bieden van zekerheid in het gebruik van informatie.">
+  <properties
+      key="Identificatie"
+      value="DV-04"/>
+</archimate:Requirement>

@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stimuleren van de transformatie"
+    id="41137c29-c31b-45f9-8cae-88d5b9c5d4f9"
+    documentation="We stimuleren de transformatie van keten gestuurde processen naar de scheiding in processen en informatie (bij partijen in het eco systeem).">
+  <properties
+      key="Identificatie"
+      value="DV-03"/>
+</archimate:Requirement>

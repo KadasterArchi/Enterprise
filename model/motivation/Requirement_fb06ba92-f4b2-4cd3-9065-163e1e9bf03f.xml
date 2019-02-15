@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bewerken bij de bron"
+    id="fb06ba92-f4b2-4cd3-9065-163e1e9bf03f"
+    documentation="We stimuleren dat we van ketens met ingewikkelde berichten en koppelvlakken per ketenstap opschuiven naar direct bewerken en bevragen bij de bron. Daartoe is het noodzakelijk dat de (basis)registraties de centrale bron van gegevens worden.&#xD;&#xA;&#xD;&#xA;Dit betekent ook dat we met onze opdrachtgever zorgen dat de berichten en koppelvlakken uit de verschillende wetten op termijn worden vervangen door andere standaarden.">
+  <properties
+      key="Identificatie"
+      value="IA-03"/>
+</archimate:Requirement>

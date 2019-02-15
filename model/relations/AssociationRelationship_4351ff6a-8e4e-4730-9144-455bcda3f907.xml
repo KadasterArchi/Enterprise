@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Concerns"
+    id="4351ff6a-8e4e-4730-9144-455bcda3f907">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_ab7877f7-7423-4501-a697-dc8c22a5f838.xml#ab7877f7-7423-4501-a697-dc8c22a5f838"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_a741968f-0ac6-4b0a-94c9-5f67373e0250.xml#a741968f-0ac6-4b0a-94c9-5f67373e0250"/>
+</archimate:AssociationRelationship>

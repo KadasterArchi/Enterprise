@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="On demand self service"
+    id="f85c6973-82bc-4bd6-b25e-0aa21e13c5b7"
+    documentation="Services zijn onder regie van de gebruiker op aanvraag beschikbaar.">
+  <properties
+      key="Laatste update"
+      value="WP ZP1"/>
+  <properties
+      key="Verplicht/Advies"
+      value="Verplicht"/>
+</archimate:Principle>

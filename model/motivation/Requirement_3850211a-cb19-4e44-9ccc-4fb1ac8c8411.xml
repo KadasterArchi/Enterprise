@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sturen op samenhang"
+    id="3850211a-cb19-4e44-9ccc-4fb1ac8c8411"
+    documentation="We zijn kennispartner die overzicht en inzicht heeft over het ruimtelijk gegevenslandschap en stuurt op samenhang om uiteindelijk te komen tot één gegevenslandschap voor overheid, burger en ondernemer.">
+  <properties
+      key="Identificatie"
+      value="BI-02"/>
+</archimate:Requirement>

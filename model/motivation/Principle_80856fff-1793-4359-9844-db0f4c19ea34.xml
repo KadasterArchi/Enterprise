@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang op basis van kenmerken van de dienst"
+    id="80856fff-1793-4359-9844-db0f4c19ea34"
+    documentation="&lt;head>&#xD;&#xA;    &lt;style type=&quot;text/css&quot;>&#xA;      &lt;!--&#xA;        body { color: #000000; font-family: Dialog; font-size: 12px }&#xA;      -->&#xA;    &lt;/style>&#xD;&#xA;    &#xD;&#xA;  &lt;/head>&#xD;&#xA;  &lt;body>&#xD;&#xA;    &lt;p>&#xD;&#xA;      Kenmerken van de dienst bepalen de toegang hiertoe&#xD;&#xA;    &lt;/p>&#xD;&#xA;  &lt;/body>">
+  <properties
+      key="Laatste update"
+      value="DV11"/>
+  <properties
+      key="Verplicht/Advies"
+      value="Verplicht"/>
+</archimate:Principle>

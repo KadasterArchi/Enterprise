@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontdekken nieuwe mogelijkheden"
+    id="59daebf4-5871-4f67-abb1-d5d35a09f4b6"
+    documentation="We ontdekken samen met gebruikers nieuwe mogelijkheden.">
+  <properties
+      key="Identificatie"
+      value="DV-06"/>
+</archimate:Requirement>

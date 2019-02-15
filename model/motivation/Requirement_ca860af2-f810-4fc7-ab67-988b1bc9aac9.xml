@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Partnerrol aan platform gebonden"
+    id="ca860af2-f810-4fc7-ab67-988b1bc9aac9"
+    documentation="We verbinden onze partnerrol met het platform. Het platform ondersteunt het beantwoorden van maatschappelijke vraagstukken. Hierdoor verbinden we de maatschappelijke thema’s met het data-gedreven werken.">
+  <properties
+      key="Identificatie"
+      value="DV-05"/>
+</archimate:Requirement>

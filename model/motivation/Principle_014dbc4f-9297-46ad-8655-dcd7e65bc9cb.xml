@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Minimale toelichting is voldoende"
+    id="014dbc4f-9297-46ad-8655-dcd7e65bc9cb"
+    documentation="&lt;head>&#xD;&#xA;    &lt;style type=&quot;text/css&quot;>&#xA;      &lt;!--&#xA;        body { color: #000000; font-family: Dialog; font-size: 12px }&#xA;      -->&#xA;    &lt;/style>&#xD;&#xA;    &#xD;&#xA;  &lt;/head>&#xD;&#xA;  &lt;body>&#xD;&#xA;    &lt;p>&#xD;&#xA;      De producten en diensten zijn gemakkelijk te gebruiken, ik heb voldoende &#xD;&#xA;      aan een minimale toelichting&#xD;&#xA;    &lt;/p>&#xD;&#xA;  &lt;/body>">
+  <properties
+      key="Identificatie"
+      value="DV 2"/>
+  <properties
+      key="Versie"
+      value="1.0"/>
+  <properties
+      key="Sinds"
+      value="01-01-2019"/>
+</archimate:Principle>

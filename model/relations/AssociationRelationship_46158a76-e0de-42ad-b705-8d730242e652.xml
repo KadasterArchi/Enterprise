@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interesse, invloed en support"
+    id="46158a76-e0de-42ad-b705-8d730242e652"
+    documentation="De relatie tussen Stakeholders en (strategische) doelen (speerpunten) is op onderstaande drie aspecten gemodelleerd.&#xD;&#xA;•&#x9;De mate van hun interesse in de realisatie van (strategische) doelen (I).&#xD;&#xA;•&#x9;De mate van invloed die zij hebben op de realisatie van deze doelen (M).&#xD;&#xA;•&#x9;De mate waarin zij bereid zijn actief de realisatie ervan te ondersteunen (S).&#xD;&#xA;Op elk van deze aspecten is onderscheid gemaakt in Hoog - Middel - Laag.&#xD;&#xA;&#xD;&#xA;Door dit te consolideren in een zogenoemd Stakeholder kwadrant, wordt duidelijk welke wijze van betrokkenheid van stakeholders het meest succesvol is.">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_ab7877f7-7423-4501-a697-dc8c22a5f838.xml#ab7877f7-7423-4501-a697-dc8c22a5f838"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_dd110599-e15f-4322-be88-8e4a4431e97b.xml#dd110599-e15f-4322-be88-8e4a4431e97b"/>
+</archimate:AssociationRelationship>

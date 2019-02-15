@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bieden van tools"
+    id="e8958a11-1f84-43d4-ba0d-12c1519e08aa"
+    documentation="We bieden tools voor analyse en visualisatie waarmee de gebruiker zelf aan de slag kan (expert en niet professional). We stellen technologische middelen (Virtual Reality (VR) - digital twin, Augmented Reality, AI) beschikbaar om data makkelijk te gebruiken.">
+  <properties
+      key="Identificatie"
+      value="IF-01"/>
+</archimate:Requirement>

@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plusinformatie voor bestuursorganen"
+    id="57b165d1-d1ff-409d-80a0-8e52b38fbaa8"
+    documentation="De gegevens zijn in samenhang te bevragen, te analyseren en te ontsluiten.">
+  <properties
+      key="Identificatie"
+      value="IA-02"/>
+</archimate:Requirement>

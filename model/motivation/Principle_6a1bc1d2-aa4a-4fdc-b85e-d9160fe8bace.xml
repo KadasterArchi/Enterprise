@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regie door meerdere partijen"
+    id="6a1bc1d2-aa4a-4fdc-b85e-d9160fe8bace"
+    documentation="Bron:&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;(Gegevens)objecten hebben meerdere eigenaren in het eco-systeem.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;De agenda Digitale Overheid zet de autonomie van burger en ondernemers hoog op de agenda. Geconstateerd wordt dat door de voortschrijdende digitalisering de Grondwet en de daaruit voortvloeiende publieke waarden zoals privacy, zelfbeschikking en gelijkheid essentieel zijn om te borgen.&#xD;&#xA;&#xD;&#xA;De digitale agenda stelt het volgende:&#xD;&#xA;> Burgers en ondernemers voeren regie op eigen gegevens.&#xD;&#xA;> De juistheid van gegevens is van groot belang en vraagt om actieve sturing.&#xD;&#xA;> MijnOverheid moet een plek worden waar de burger de regie op zijn (persoons-)gegevens heeft.&#xD;&#xA;> Ondernemers en burgers kunnen onjuist gegevens (laten) corrigeren. Het gevolg van verkeerde gegevens moet worden hersteld.&#xD;&#xA;> Mesen hebben het recht op inzicht wie, op welk moment en voor welk doel, hun gegevens inzien, gebruikt of aan anderen geeft. Dit recht is vastgelegd in de AVG. Dit vraagt veel van alle overheidsorganisaties en mogelijk leidt dit tot gezamenlijke acties.">
+  <properties
+      key="Identificatie"
+      value="EP04"/>
+  <properties
+      key="Sinds"
+      value="01-01-2019"/>
+  <properties
+      key="Versie"
+      value="0.9"/>
+</archimate:Principle>

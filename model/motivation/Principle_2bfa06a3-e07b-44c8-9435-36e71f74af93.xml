@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEO-Platform"
+    id="2bfa06a3-e07b-44c8-9435-36e71f74af93"
+    documentation="Bron:&#xD;&#xA;https://www.noraonline.nl/images/noraonline/2/27/20170411_NORA_gebruikersraad_verbinding_met_GEMMA_TP.pdf&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Wij bieden het platform waarmee iedereen met geo-informatie altijd en overal aan de slag kan.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Inzicht in ruimte is van belang bij het vaststellen van beleid, het meten van de maatschappelijke effecten van beleid en het nemen van besluiten over inrichting van ruimte. Wij stellen betrouwbare, gevalideerde ruimtelijke informatie uit diverse bronnen beschikbaar en zorgen ervoor dat deze vindbaar, goed toegankelijk en bruikbaar is. Daarbij geven we zowel aandacht aan data, als aan de technologische middelen die nodig zijn om deze data op een goede manier te gebruiken. In de samenleving moet dit de beleving oproepen: “Met dit inzicht kunnen we de volgende stap zetten”.&#xD;&#xA;">
+  <properties
+      key="Identificatie"
+      value="EP01"/>
+  <properties
+      key="Sinds"
+      value="01-01-2019"/>
+  <properties
+      key="Versie"
+      value="0.9"/>
+</archimate:Principle>
