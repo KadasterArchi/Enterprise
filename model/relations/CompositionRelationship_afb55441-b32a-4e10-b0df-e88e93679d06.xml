@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="onderbouwt vanuit architectuur"
+    id="afb55441-b32a-4e10-b0df-e88e93679d06">
+  <source
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_af287c4d-2889-434a-8730-0e860f3274cc.xml#af287c4d-2889-434a-8730-0e860f3274cc"/>
+  <target
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_d033c410-5271-45a6-9bb6-dc598153c599.xml#d033c410-5271-45a6-9bb6-dc598153c599"/>
+</archimate:CompositionRelationship>
