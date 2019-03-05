@@ -1052,4 +1052,30 @@
         xsi:type="archimate:Stakeholder"
         href="Stakeholder_39ef31ba-5f1e-4914-ba90-955b3ec48dfd.xml#39ef31ba-5f1e-4914-ba90-955b3ec48dfd"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="bc5e8684-dcd5-4343-a224-9291ac11eccf"
+      font="1|Arial|10.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Arial"
+      fontColor="#800000"
+      textAlignment="1"
+      content="Rode lijnen&#xD;&#xA;Governance Architetuur Management Board">
+    <bounds
+        x="1548"
+        y="1068"
+        width="409"
+        height="49"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="5f8463ad-8e46-48ca-8963-baee7e3c5658"
+      font="1|Arial|10.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Arial"
+      fontColor="#0080ff"
+      textAlignment="1"
+      content="Blauwe lijnen&#xD;&#xA;Governance Integraal Portfolio Overleg">
+    <bounds
+        x="1548"
+        y="1128"
+        width="409"
+        height="49"/>
+  </children>
 </archimate:ArchimateDiagramModel>
