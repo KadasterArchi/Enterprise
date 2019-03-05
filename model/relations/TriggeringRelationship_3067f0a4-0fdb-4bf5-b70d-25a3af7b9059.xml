@@ -1,7 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="wijzingsvoorstellen vanuit de realisatie"
+    name="Wijzigen principes en modellen KEA"
     id="3067f0a4-0fdb-4bf5-b70d-25a3af7b9059">
   <source
       xsi:type="archimate:ImplementationEvent"
