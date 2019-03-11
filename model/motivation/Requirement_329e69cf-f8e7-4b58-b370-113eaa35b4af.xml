@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maatschappelijke vraagstukken"
+    id="329e69cf-f8e7-4b58-b370-113eaa35b4af"
+    documentation="Verbinder van maatschappelijke vraagstukken en het platform. Het platform ondersteunt het beantwoorden van maatschappelijke vraagstukken. Hierdoor wordt de platform community op thema’s vanuit de maatschappelijke vraagstukken versterkt, en het gegevenslandschap op het platform completer. ">
+  <properties
+      key="Identificatie"
+      value="DV-01"/>
+</archimate:Requirement>

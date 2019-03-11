@@ -1,8 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Centrale beschikbaarheid van gegevens"
+    name="Centrale beschikbaarheid"
     id="3f4dc045-5e4c-40aa-b247-b2ec296ea0b6"
-    documentation="Bron:&#xD;&#xA;https://vng.nl/samen-organiseren/common-ground&#xD;&#xA;https://www.digitaleoverheid.nl/archief/studiegroep-informatiesamenleving-en-overheid/documenten-2/dossierdocumentcontext/rapport-maak-studiegroep-informatiesamenleving-en-overheid/&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Gegevens zijn centraal beschikbaar rechtstreeks vanuit hun bron(nen).&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Nu ontsluiten overheden gegevens via koppelingen, die complex, kwetsbaar en duur zijn. Doordat de gegevens zijn ‘opgesloten’ binnen de informatiesystemen is de portabiliteit van gegevens en hergebruik ervan beperkt. Gegevens worden continue gekopieerd om de systemen in sync te houden. Met centraal beschikbaar is geen centrale opslag bedoeld. Gegevens zijn opgeslagen bij hun bron(nen) en dat kan zowel centraal als decentraal (denk aan linked data of blockchain) afhankelijk van de use case. Centraal beschikbaar betekent dat via een centrale interface alle gegevens benaderbaar zijn.&#xD;&#xA;&#xD;&#xA;Deze beweging is ingezet vanuit het DSO en wordt momenteel versterkt en strategischer gemaakt door common ground van de gemeenten en het benoemen van deze bewegingen in meerdere digitale agenda’s.">
+    documentation="Bron:&#xD;&#xA;https://vng.nl/samen-organiseren/common-ground&#xD;&#xA;https://www.digitaleoverheid.nl/archief/studiegroep-informatiesamenleving-en-overheid/documenten-2/dossierdocumentcontext/rapport-maak-studiegroep-informatiesamenleving-en-overheid/&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Gegevens zijn centraal beschikbaar rechtstreeks vanuit hun bron(nen).&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Platform waarmee iedereen met geo-informatie altijd en overal aan de slag kan - Ontwikkelvisie (paragraaf 5.2)&#xD;&#xA;&#xD;&#xA;Het principe van eenmalig opslaan en meervoudig gebruiken is eenvoudig, maar is in de praktijk lastig te realiseren gezien het huidige gegevens- en applicatielandschap bij de overheid. In de huidige ICT-infrastructuur is data als het ware in silo’s per beleidsdomein opgesloten. Nu ontsluiten overheden gegevens via koppelingen, die complex, kwetsbaar en duur zijn. Doordat de gegevens zijn ‘opgesloten’ binnen de informatiesystemen is de portabiliteit van gegevens en hergebruik ervan beperkt. Gegevens worden continue gekopieerd om de systemen in sync te houden. Met centraal beschikbaar is geen centrale opslag bedoeld. Gegevens zijn opgeslagen bij hun bron(nen) en dat kan zowel centraal als decentraal (denk aan linked data of blockchain) afhankelijk van de use case. Centraal beschikbaar betekent dat via een centrale interface alle gegevens benaderbaar zijn.&#xD;&#xA;&#xD;&#xA;Deze beweging is ingezet vanuit het DSO en wordt momenteel versterkt en strategischer gemaakt door common ground van de gemeenten en het benoemen van deze bewegingen in meerdere digitale agenda’s.">
   <properties
       key="Identificatie"
       value="EP02"/>
@@ -12,4 +12,7 @@
   <properties
       key="Versie"
       value="0.9"/>
+  <properties
+      key="Thema"
+      value="Platform"/>
 </archimate:Principle>
