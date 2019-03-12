@@ -12,4 +12,7 @@
   <properties
       key="Versie"
       value="0.9"/>
+  <properties
+      key="Thema"
+      value="Platform"/>
 </archimate:Principle>

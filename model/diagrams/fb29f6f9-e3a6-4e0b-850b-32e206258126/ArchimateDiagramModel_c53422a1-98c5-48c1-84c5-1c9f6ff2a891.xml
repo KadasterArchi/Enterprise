@@ -1000,4 +1000,16 @@
         xsi:type="archimate:Principle"
         href="Principle_40b1ee29-ad7f-4862-a9b6-89be54476ab6.xml#40b1ee29-ad7f-4862-a9b6-89be54476ab6"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8f08a916-dd62-4a34-9d60-24e89173065c">
+    <bounds
+        x="1344"
+        y="276"
+        width="180"
+        height="348"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_f424d306-7d47-4f56-86eb-57ecbc65fc0e.xml#f424d306-7d47-4f56-86eb-57ecbc65fc0e"/>
+  </children>
 </archimate:ArchimateDiagramModel>

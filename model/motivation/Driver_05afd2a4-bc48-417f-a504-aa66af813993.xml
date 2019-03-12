@@ -1,0 +1,5 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteit"
+    id="05afd2a4-bc48-417f-a504-aa66af813993"
+    documentation="Een betere (hogere) kwaliteit van de IT (Par. 2.3). Dit is overigens wel in hoge mate afhankelijk van waar we nu zelf menen te staan. Maar over het algemeen geldt het volgende::&#xD;&#xA;> Betere informatie over gebruik en verbruik van resources&#xD;&#xA;> Beter onderhoudbaar&#xD;&#xA;> Betere/snellere deployement beter ook in de zin van uniform en consistent en getuned op gebruik&#xD;&#xA;> Hogere mate van business contrinuiteit en robuustheid (afhankelijk van hoe hoog je in de cloud stack zit)&#xD;&#xA;> Positiever effect op de sustainability (eco footprint)&#xD;&#xA;&#xD;&#xA;Over het algemeen zijn deze meer van toepassing in geval van public cloud."/>
