@@ -3,8 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MetaModel"
     id="17135280-8a8b-4fa3-92b1-9577d0fd4499"
-    documentation="&#xD;&#xA;"
-    viewpoint="motivation">
+    documentation="&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2d44a857-c1d3-4ed5-9e52-6288749f0530"
@@ -779,7 +778,7 @@
           x="12"
           y="48"
           width="1045"
-          height="241"/>
+          height="169"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="af8fb26e-412b-404c-ba8b-ac87f4d6c75a"
