@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaard"
+    id="23df4bc4-1b2d-448b-8d94-b75b7f0adb80"
+    documentation="Bron:&#xD;&#xA;https://www.noraonline.nl/wiki/Standaard_(Basisprincipe)&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Voorzieningen zijn maximaal gestandaardiseerd op alle aspecten van de Enterprise&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Standaardisatie en de daaruit voortvloeiende uniformering maken afnemers (/gebruikers) vertrouwd met een uniforme manier van werken. De dienstverlening wordt voor hen daardoor gemakkelijker (en dus goedkoper). Daarnaast levert hergebruik van standaardoplossingen vaak ook kostenvoordeel op voor het Kadaster.&#xD;&#xA;&#xD;&#xA;TOELICHTING&#xD;&#xA;=========&#xD;&#xA;Overeenkomstige aspecten van dienstverlening krijgen op overeenkomstige wijze vorm door gebruik te maken van generieke oplossingen die breed worden toegepast. Daarbij kan het gaan om gebruik van gedeelde processen en systemen (shared services) of toepassing van open standaarden op eigen processen en systemen. Beiden hebben een standaardiserend effect.&#xD;&#xA;">
+  <properties
+      key="Identificatie"
+      value="EP08"/>
+  <properties
+      key="Sinds"
+      value="01-06-2019"/>
+  <properties
+      key="Versie"
+      value="1.0"/>
+  <properties
+      key="Thema"
+      value="Implementatie, Beheer"/>
+</archimate:Principle>

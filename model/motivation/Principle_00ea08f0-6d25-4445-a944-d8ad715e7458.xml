@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eenmalige uitvraag"
+    id="00ea08f0-6d25-4445-a944-d8ad715e7458"
+    documentation="Bron:&#xD;&#xA;https://www.noraonline.nl/wiki/Eenmalige_uitvraag&#xD;&#xA;https://www.noraonline.nl/wiki/Doelbinding_(AP)&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Afnemers wordt niet naar reeds bekende informatie gevraagd.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Het meerdere keren moeten aanleveren van dezelfde informatie is één van de grootste ergernissen voor burgers, bedrijven en medewerkers. Onnodige uitvraag van informatie moet dus voorkomen worden. Hergebruiken van reeds vastgelegde informatie beperkt de kosten voor registratie en beheer van deze gegevens. Hiermee verminderen we tevens vermijdbaar contact met afnemers en verhogen we de tevredenheid van klanten en medewerkers. &#xD;&#xA;&#xD;&#xA;TOELICHTING&#xD;&#xA;=========&#xD;&#xA;We beperken ons hierbij tot wat mogelijk is binnen de AVG. Dat kan eventueel leiden tot minder klanttevredenheid.">
+  <properties
+      key="Identificatie"
+      value="DV3"/>
+  <properties
+      key="Sinds"
+      value="01-06-2019"/>
+  <properties
+      key="Versie"
+      value="1.0"/>
+  <properties
+      key="Thema"
+      value="Klant, Bedrijfsvoering"/>
+</archimate:Principle>

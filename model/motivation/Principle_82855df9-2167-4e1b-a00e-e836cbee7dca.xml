@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvullend kanaal"
+    id="82855df9-2167-4e1b-a00e-e836cbee7dca"
+    documentation="Bron:&#xD;&#xA;https://www.noraonline.nl/wiki/Aanvullend_kanaal&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Diensten zijn, naast internet, minimaal via één ander kanaal af te nemen.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;De ontsluiting via internet draagt bij aan toegankelijkheid van de dienst. Er moet echter altijd een alternatief kanaal beschikbaar zijn voor afnemers die geen toegang hebben tot internet en voor situaties waarin internet niet gebruikt kan worden, bijvoorbeeld in het geval van een storing. Afnemers kunnen zonder bezwaar bij ieder contactmoment het voor hen optimale kanaal kiezen.&#xD;&#xA;&#xD;&#xA;TOELICHTING&#xD;&#xA;=========&#xD;&#xA;De toepassing van dit principe is overigens wel in hoge mate afhankelijk van de dienst. Levering van diensten die niet tot de wettelijke taken van het Kadaster behoren, kunnen hierop een (overwogen) uitzondering zijn. ">
+  <properties
+      key="Identificatie"
+      value="DV6"/>
+  <properties
+      key="Sinds"
+      value="01-06-2019"/>
+  <properties
+      key="Versie"
+      value="1.0"/>
+  <properties
+      key="Thema"
+      value="Klant"/>
+</archimate:Principle>
