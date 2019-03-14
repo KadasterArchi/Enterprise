@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API first"
+    id="bee798ff-034c-410c-b456-46829781385c"
+    documentation="Bron:&#xD;&#xA;V:\IT\Architectuur\Veranderen onder architectuur\00066-Bron_V1.3.pdf&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Systeem-naar-systeem integratie vindt plaats door gebruik te maken van API (Application Programming Interface) &#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Data en functionaliteit van services wordt alleen via service interfaces (Application Programming Interface (API)) gebruikt zonder tussenkomst van mensen.&#xD;&#xA;&#xD;&#xA;TOELICHTING&#xD;&#xA;=========&#xD;&#xA;">
+  <properties
+      key="Identificatie"
+      value="IA"/>
+  <properties
+      key="Sinds"
+      value="01-06-2019"/>
+  <properties
+      key="Versie"
+      value="0.1"/>
+  <properties
+      key="Thema"
+      value="Cloud"/>
+</archimate:Principle>

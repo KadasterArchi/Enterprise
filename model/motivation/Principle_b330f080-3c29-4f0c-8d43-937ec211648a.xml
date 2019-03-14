@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rollen en verantwoordelijkeden"
+    id="b330f080-3c29-4f0c-8d43-937ec211648a"
+    documentation="Bron:&#xD;&#xA;https://www.iso.org/obp/ui/#iso:std:iso-iec:17789:ed-1:v1:en&#xD;&#xA;https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=909505&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Bij gebruik van cloud is de bedrijfsvoering ingericht eenduidig in overeenstemming met de daarvoor onderkende rollen en sub-rollen&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;De bedrijfsinrichting op met name de taken en verantwoordelijkheden en bijbehorende vaardigheden is op een aantal aspecten bij gebruik van public cloud anders dan bij levering van diensten vanuit een eigen datacenter of private outsourced cloud. In de Cloud Computing Reference Architecture zijn deze rollen en bijbehorende taken beschreven. M.n. de ISO-norm is daarin het meest volledig. Voor het soepel integreren van gebruik van public cloud in de Kadaster Governance is het nodig om de taken en verantwoordelijkheden in deze rollen eenduidig te mappen op rollen en funkties binnen het Kadaster. Een dergelijke 'mapping' is niet afhankelijk van het voornemen om dit wel of niet extern te beleggen. Om die reden is het meer dan wenselijk om de onderkende (standaard) cloud rollen ongewijzigd te integreren met onze bedrijfsvoering, zodat op elk moment besloten kan worden welke rollen in- en extern worden belegd.&#xD;&#xA;&#xD;&#xA;Met eenduidig in het statement is bedoeld dat rollen bij voorkeur volgens identieke overwegingen binnen Kadaster zijn belegd onafhankelijk van cloud leveranciers en/of IaaS, PaaS of SaaS.&#xD;&#xA;&#xD;&#xA;TOELICHTING&#xD;&#xA;=========&#xD;&#xA;Overigens is er het nodige voor te zeggen om dit principe ook van toepassing te laten zijn bij gebruik van private outsourced cloud.">
+  <properties
+      key="Identificatie"
+      value="BV"/>
+  <properties
+      key="Sinds"
+      value="01-06-2019"/>
+  <properties
+      key="Versie"
+      value="0.1"/>
+  <properties
+      key="Thema"
+      value="Cloud"/>
+</archimate:Principle>

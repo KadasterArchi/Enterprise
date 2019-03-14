@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanbieder gedreven"
+    id="4fb1ea90-1bf8-418d-9d83-79e3cfc1f6d5"
+    documentation="Bron:&#xD;&#xA;V:\IT\Architectuur\Veranderen onder architectuur\00066-Bron_V1.3.pdf&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Clouddiensten zijn gedefinieerd door de Cloud Service Provider en worden geconfigureerd door het Kadaster.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Dit principe is een belangrijke voorwaarde ter voorkoming of beperking van een lock-in met de CSP. Bovendien ontwikkelen cloud diensten zich razendsnel en het gebruik van diensten zoals aangeboden borgt de continuiteit van onze dienstverlening en stelt ons in staat om gebruik te maken van nieuwe functionaliteit die meekomt vanuit de Roadmap van de CSP. &#xD;&#xA;&#xD;&#xA;Een bijzonder aspect van beperken van een lock-in is dat -hoewel m.n. PaaS- niet is gestandaardiseerd over alle CSP's heen, deze wel dezelfde capabilities bieden. Door geen maatwerk toe te staan op m.n. PaaS deployments, is het makkelijker om een deployment van de ene PaaS provider te verhuizen naar een andere (sterk vergelijkbare) PaaS bij een andere provider.&#xD;&#xA;&#xD;&#xA;TOELICHTING&#xD;&#xA;=========&#xD;&#xA;">
+  <properties
+      key="Identificatie"
+      value="IA"/>
+  <properties
+      key="Sinds"
+      value="01-06-2019"/>
+  <properties
+      key="Versie"
+      value="0.1"/>
+  <properties
+      key="Thema"
+      value="Cloud"/>
+</archimate:Principle>
