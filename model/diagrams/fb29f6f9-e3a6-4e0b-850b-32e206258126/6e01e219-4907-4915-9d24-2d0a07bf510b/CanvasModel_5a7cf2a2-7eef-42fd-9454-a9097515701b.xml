@@ -1,0 +1,56 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Overzicht"
+    id="5a7cf2a2-7eef-42fd-9454-a9097515701b">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="af5d4da7-823c-4630-8705-6c13c007a519"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Externe beleidskaders&#xD;&#xA;">
+    <bounds
+        x="120"
+        y="72"
+        width="229"
+        height="433"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="0a39fc32-2fd6-4a97-b175-a016bb3b97fa"
+        fillColor="#ffff95"
+        content="BIR"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="48"
+          y="36"
+          width="85"
+          height="26"/>
+    </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="e8673b79-860d-465b-b2b5-9e66141d9edb"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Interne beleidskaders&#xD;&#xA;">
+    <bounds
+        x="384"
+        y="72"
+        width="229"
+        height="433"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="b6e67d8a-b623-4936-bef6-07a26b568119"
+        fillColor="#ffff95"
+        content="Kadaster Handboek Informatiebeveiliging"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="36"
+          y="36"
+          width="133"
+          height="49"/>
+    </children>
+  </children>
+</canvas:CanvasModel>
