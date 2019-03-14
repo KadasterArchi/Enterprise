@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Rollen en verantwoordelijkeden</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+		<div class="panel-heading root-panel-heading">
+			<b>Rollen en verantwoordelijkeden</b>
+			(<span class="i18n-elementtype-Principle"></span>)
+			<a class="glyphicon glyphicon-info-sign" id="hint-Principle" target="hint"></a>
+		</div>
+		<div class="panel-body root-panel-body">
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<textarea id="docsrc" style="display:none">Bron:
+https://www.iso.org/obp/ui/#iso:std:iso-iec:17789:ed-1:v1:en
+https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=909505
+
+Statement:
+Bij gebruik van cloud is de bedrijfsvoering ingericht eenduidig in overeenstemming met de daarvoor onderkende rollen en sub-rollen
+
+Rationale:
+De bedrijfsinrichting op met name de taken en verantwoordelijkheden en bijbehorende vaardigheden is op een aantal aspecten bij gebruik van public cloud anders dan bij levering van diensten vanuit een eigen datacenter of private outsourced cloud. In de Cloud Computing Reference Architecture zijn deze rollen en bijbehorende taken beschreven. M.n. de ISO-norm is daarin het meest volledig. Voor het soepel integreren van gebruik van public cloud in de Kadaster Governance is het nodig om de taken en verantwoordelijkheden in deze rollen eenduidig te mappen op rollen en funkties binnen het Kadaster. Een dergelijke 'mapping' is niet afhankelijk van het voornemen om dit wel of niet extern te beleggen. Om die reden is het meer dan wenselijk om de onderkende (standaard) cloud rollen ongewijzigd te integreren met onze bedrijfsvoering, zodat op elk moment besloten kan worden welke rollen in- en extern worden belegd.
+
+Met eenduidig in het statement is bedoeld dat rollen bij voorkeur volgens identieke overwegingen binnen Kadaster zijn belegd onafhankelijk van cloud leveranciers en/of IaaS, PaaS of SaaS.
+
+TOELICHTING
+=========
+Overigens is er het nodige voor te zeggen om dit principe ook van toepassing te laten zijn bij gebruik van private outsourced cloud.</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr><td> Identificatie </td><td> <xmp class="no-margin" style="white-space:pre-wrap">BV</xmp> </td></tr><tr><td> Sinds </td><td> <xmp class="no-margin" style="white-space:pre-wrap">01-06-2019</xmp> </td></tr><tr><td> Versie </td><td> <xmp class="no-margin" style="white-space:pre-wrap">0.1</xmp> </td></tr><tr><td> Thema </td><td> <xmp class="no-margin" style="white-space:pre-wrap">Cloud</xmp> </td></tr>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
