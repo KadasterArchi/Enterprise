@@ -694,6 +694,24 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_c7ddee6c-0a80-4011-aed0-42a98cc0872b.xml#c7ddee6c-0a80-4011-aed0-42a98cc0872b"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="6e4ef861-d822-4eca-9d1b-7fb7be6d2266"
+        source="73e9c4df-2dda-4fe8-be04-a3ab60465be4"
+        target="ae2a679e-982c-4ce0-92ae-2f7fff307d0c">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_ee21ec2d-c9b5-4b90-b84b-079133f4e742.xml#ee21ec2d-c9b5-4b90-b84b-079133f4e742"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="6b834fe6-63ea-4083-a5bd-1fa6f76bc1fe"
+        source="73e9c4df-2dda-4fe8-be04-a3ab60465be4"
+        target="be3fc18f-5390-4746-9605-b6982f1f9e69">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_208ac387-d0e9-4bfc-b129-3441041ecd1b.xml#208ac387-d0e9-4bfc-b129-3441041ecd1b"/>
+    </sourceConnections>
     <bounds
         x="264"
         y="720"
@@ -890,43 +908,6 @@
           href="Grouping_fe401a87-495b-4f74-92e5-e4a27686358a.xml#fe401a87-495b-4f74-92e5-e4a27686358a"/>
     </children>
     <children
-        xsi:type="archimate:DiagramModelReference"
-        id="b09a2012-2c70-4375-a29a-0ed1a35b7658"
-        font="1|Arial|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Arial"
-        fillColor="#ffff00">
-      <sourceConnections
-          id="b7a8b446-e046-4020-b73c-e37576fb16e5"
-          source="b09a2012-2c70-4375-a29a-0ed1a35b7658"
-          target="236fdefa-ce5a-401b-826e-0de84d33ccab"/>
-      <bounds
-          x="23"
-          y="492"
-          width="541"
-          height="120"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_75849d60-3faf-4dc7-b576-245bf1a2c95c.xml#75849d60-3faf-4dc7-b576-245bf1a2c95c"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="36c5f60e-a565-478f-b7e1-4b484b91523b"
-        font="1|Arial|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Arial"
-        fontColor="#ffffff"
-        fillColor="#ff0000">
-      <sourceConnections
-          id="d5e80c24-b8be-4c05-a8ac-c8484e01279f"
-          source="36c5f60e-a565-478f-b7e1-4b484b91523b"
-          target="2ce5c88f-7a9f-450b-8122-2ceb775e237f"/>
-      <bounds
-          x="24"
-          y="756"
-          width="539"
-          height="108"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_4ff11dc4-780e-4549-a12c-ea17633b1e6b.xml#4ff11dc4-780e-4549-a12c-ea17633b1e6b"/>
-    </children>
-    <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="61ec2192-1b90-4bb1-90aa-fa7b004ed394"
         targetConnections="ea571c60-8171-4802-b70a-2e433c2d3a3d"
@@ -1088,6 +1069,48 @@
           xsi:type="archimate:Grouping"
           href="Grouping_09793822-f3e2-465c-9bed-ddd1c3715f9a.xml#09793822-f3e2-465c-9bed-ddd1c3715f9a"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="f264537b-4362-4994-a0b5-8ee22c2df255"
+        targetConnections="dbf2b445-4b03-4de4-947d-ec1eddc00575"
+        font="1|Arial|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Arial">
+      <bounds
+          x="12"
+          y="612"
+          width="1045"
+          height="133"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_f7493ba8-8a4d-4cf0-8020-709901b17cd1.xml#f7493ba8-8a4d-4cf0-8020-709901b17cd1"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="ae2a679e-982c-4ce0-92ae-2f7fff307d0c"
+        targetConnections="6e4ef861-d822-4eca-9d1b-7fb7be6d2266 00c9c92b-a8b4-44d7-a165-21ac634ff69e"
+        font="1|Arial|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Arial">
+      <bounds
+          x="12"
+          y="468"
+          width="1045"
+          height="133"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_9fe210ed-4226-4f95-99a2-7c7e86cb9428.xml#9fe210ed-4226-4f95-99a2-7c7e86cb9428"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="be3fc18f-5390-4746-9605-b6982f1f9e69"
+        targetConnections="6b834fe6-63ea-4083-a5bd-1fa6f76bc1fe 2682f97c-613e-4df0-a873-f74d62fcdea0"
+        font="1|Arial|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Arial">
+      <bounds
+          x="12"
+          y="756"
+          width="1045"
+          height="133"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_0ab561e0-5e19-4b8b-8a6c-c5868665d9db.xml#0ab561e0-5e19-4b8b-8a6c-c5868665d9db"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_1a3d337b-26b7-4329-b4bf-c6ec54c366e9.xml#1a3d337b-26b7-4329-b4bf-c6ec54c366e9"/>
@@ -1095,25 +1118,31 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="2ce5c88f-7a9f-450b-8122-2ceb775e237f"
-      targetConnections="d5e80c24-b8be-4c05-a8ac-c8484e01279f"
       fontColor="#ffffff"
       textAlignment="1"
       fillColor="#ff0000"
       content="Infrastructuur services &#xD;&#xA;Netwerk en transport &#xD;&#xA;Kantoor voorzieningen">
+    <sourceConnections
+        id="2682f97c-613e-4df0-a873-f74d62fcdea0"
+        source="2ce5c88f-7a9f-450b-8122-2ceb775e237f"
+        target="be3fc18f-5390-4746-9605-b6982f1f9e69"/>
     <bounds
         x="-13"
-        y="1464"
+        y="1476"
         width="252"
         height="120"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="ec27319f-d4c1-43d6-b2cf-68619755279e"
-      targetConnections="51163812-39db-4092-8fd3-44e1b8dc02d7"
       fontColor="#000000"
       textAlignment="1"
       fillColor="#80ffff"
       content="Objecten en gegevens &#xD;&#xA;Informatie &#xD;&#xA;Applicaties en applicatie componenten &#xD;&#xA;Interfaces &#xD;&#xA;Services">
+    <sourceConnections
+        id="dbf2b445-4b03-4de4-947d-ec1eddc00575"
+        source="ec27319f-d4c1-43d6-b2cf-68619755279e"
+        target="f264537b-4362-4994-a0b5-8ee22c2df255"/>
     <bounds
         x="-13"
         y="1332"
@@ -1121,34 +1150,19 @@
         height="120"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="b0162379-8e37-4eab-829b-11a5d85a717c"
-      font="1|Arial|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Arial"
-      fillColor="#80ffff">
-    <sourceConnections
-        id="51163812-39db-4092-8fd3-44e1b8dc02d7"
-        source="b0162379-8e37-4eab-829b-11a5d85a717c"
-        target="ec27319f-d4c1-43d6-b2cf-68619755279e"/>
-    <bounds
-        x="287"
-        y="1332"
-        width="540"
-        height="120"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_8d62cf52-cc09-4be5-85b4-b947493eb35b.xml#8d62cf52-cc09-4be5-85b4-b947493eb35b"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="236fdefa-ce5a-401b-826e-0de84d33ccab"
-      targetConnections="b7a8b446-e046-4020-b73c-e37576fb16e5"
       fontColor="#000000"
       textAlignment="1"
       fillColor="#ffff00"
       content="Bedrijfsprocessen &#xD;&#xA;Bedrijfsfuncties &#xD;&#xA;Medewerkers &#xD;&#xA;Organisatie &#xD;&#xA;Besturing">
+    <sourceConnections
+        id="00c9c92b-a8b4-44d7-a165-21ac634ff69e"
+        source="236fdefa-ce5a-401b-826e-0de84d33ccab"
+        target="ae2a679e-982c-4ce0-92ae-2f7fff307d0c"/>
     <bounds
         x="-13"
-        y="1200"
+        y="1188"
         width="252"
         height="120"/>
   </children>
@@ -1162,7 +1176,7 @@
       content="Klanten en markten &#xD;&#xA;Producten en diensten &#xD;&#xA;Kanalen &#xD;&#xA;Bedieningsconcepten &#xD;&#xA;Leveranciers ">
     <bounds
         x="-13"
-        y="1068"
+        y="1044"
         width="252"
         height="120"/>
   </children>

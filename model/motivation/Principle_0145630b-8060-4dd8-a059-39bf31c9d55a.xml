@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontsluiten van gegevens"
+    id="0145630b-8060-4dd8-a059-39bf31c9d55a"
+    documentation="Bron:&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Gegevens zijn in samenhang beschikbaar vanuit één gegevenslandschap.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;">
+  <properties
+      key="Identificatie"
+      value="EP01"/>
+  <properties
+      key="Sinds"
+      value="01-01-2019"/>
+  <properties
+      key="Versie"
+      value="0.9"/>
+  <properties
+      key="Thema"
+      value="Platform"/>
+</archimate:Principle>

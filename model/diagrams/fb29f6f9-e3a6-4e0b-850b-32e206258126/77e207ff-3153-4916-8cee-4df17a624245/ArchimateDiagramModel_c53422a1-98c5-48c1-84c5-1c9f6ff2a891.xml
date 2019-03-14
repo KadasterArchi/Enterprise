@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="5.2 Strategie, beleid en doelstellingen (Motivation)"
+    name="5.2 Doelen en Enterprise principes (Motivation)"
     id="c53422a1-98c5-48c1-84c5-1c9f6ff2a891"
     connectionRouterType="2">
   <children
@@ -461,8 +461,8 @@
           href="RealizationRelationship_56183f07-f0e7-4f12-a094-14e9b1f2cf81.xml#56183f07-f0e7-4f12-a094-14e9b1f2cf81"/>
     </sourceConnections>
     <bounds
-        x="72"
-        y="888"
+        x="48"
+        y="696"
         width="180"
         height="48"/>
     <archimateElement
