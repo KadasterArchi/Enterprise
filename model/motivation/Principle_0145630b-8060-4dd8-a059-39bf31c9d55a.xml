@@ -1,8 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ontsluiten van gegevens"
+    name="Plus informatie voor bestuursorganen"
     id="0145630b-8060-4dd8-a059-39bf31c9d55a"
-    documentation="Bron:&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Gegevens zijn in samenhang beschikbaar vanuit één gegevenslandschap.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;">
+    documentation="Bron:&#xD;&#xA;V:\IT\Architectuur\Veranderen onder architectuur\00029-Bron_V6.docx&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;De gegevens zijn in samenhang te bevragen, te analyseren en te ontsluiten vanaf één platform&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;">
   <properties
       key="Identificatie"
       value="EP01"/>

@@ -514,7 +514,7 @@
     <bounds
         x="-48"
         y="360"
-        width="1105"
+        width="1153"
         height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -625,7 +625,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ff3ef96f-2990-4818-99ad-80962a9c6298"
-        targetConnections="19760e1d-7e82-42b9-8d57-b9fb0b46317c"
+        targetConnections="19760e1d-7e82-42b9-8d57-b9fb0b46317c 75686640-0227-4f0b-87fd-d8af7baf41f6"
         fillColor="#ffe0e0">
       <bounds
           x="360"
@@ -764,6 +764,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_22083702-4d18-4916-88b0-0c2019f09415.xml#22083702-4d18-4916-88b0-0c2019f09415"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="31367aa7-12a4-460e-9119-937985471c29"
+        source="e49b0321-bc2c-4137-962f-c30d5f192e9c"
+        target="4f26f2fe-ba27-4240-ac83-bbcc8c09ca07">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_22083702-4d18-4916-88b0-0c2019f09415.xml#22083702-4d18-4916-88b0-0c2019f09415"/>
+    </sourceConnections>
     <bounds
         x="60"
         y="1020"
@@ -777,6 +786,30 @@
         fillColor="#ff0000">
       <bounds
           x="12"
+          y="24"
+          width="169"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:Principle"
+          href="Principle_a429d1bd-f8eb-451a-ac4d-e52399824e0c.xml#a429d1bd-f8eb-451a-ac4d-e52399824e0c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="4f26f2fe-ba27-4240-ac83-bbcc8c09ca07"
+        targetConnections="31367aa7-12a4-460e-9119-937985471c29"
+        fontColor="#ffffff"
+        fillColor="#ff0000">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="75686640-0227-4f0b-87fd-d8af7baf41f6"
+          source="4f26f2fe-ba27-4240-ac83-bbcc8c09ca07"
+          target="ff3ef96f-2990-4818-99ad-80962a9c6298">
+        <archimateRelationship
+            xsi:type="archimate:InfluenceRelationship"
+            href="InfluenceRelationship_12db53e4-edf6-44dd-82df-ba40a8586a18.xml#12db53e4-edf6-44dd-82df-ba40a8586a18"/>
+      </sourceConnections>
+      <bounds
+          x="216"
           y="24"
           width="169"
           height="49"/>

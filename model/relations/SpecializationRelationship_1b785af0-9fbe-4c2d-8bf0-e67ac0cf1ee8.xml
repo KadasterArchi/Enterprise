@@ -1,6 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AMB"
     id="1b785af0-9fbe-4c2d-8bf0-e67ac0cf1ee8">
   <source
       xsi:type="archimate:Deliverable"

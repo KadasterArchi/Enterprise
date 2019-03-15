@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastleggen doelbinding"
+    id="25b92163-0b8c-4140-aba6-f1b78aa10814"
+    documentation="Bron:&#xD;&#xA;V:\IT\Architectuur\Veranderen onder architectuur\00029-Bron_V6.docx&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Het doel van het bevragen en bewerken van gegevens is bepaalt door de eigenaar van de gegevens.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Voor de verwerking van de gegevens is doelbinding vereist. Dit betekent dat vastgelegd moet zijn welke gegevens voor welke bevraging en bewerking gebruikt mogen worden. De eigenaar van de gegevens binnen een informatieobject bepaald dit.&#xD;&#xA;&#xD;&#xA;TOELICHTING&#xD;&#xA;=========&#xD;&#xA;">
+  <properties
+      key="Identificatie"
+      value="EP01"/>
+  <properties
+      key="Sinds"
+      value="01-01-2019"/>
+  <properties
+      key="Versie"
+      value="0.9"/>
+  <properties
+      key="Thema"
+      value="Platform"/>
+</archimate:Principle>

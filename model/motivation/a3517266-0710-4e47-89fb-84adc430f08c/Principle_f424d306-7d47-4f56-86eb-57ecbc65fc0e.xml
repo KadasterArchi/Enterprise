@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Veranderen onder architectuur"
+    id="f424d306-7d47-4f56-86eb-57ecbc65fc0e"
+    documentation="Bron:&#xD;&#xA;V:\IT\Architectuur\Veranderen onder architectuur\00029-Bron_V6.docx&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Veranderingen zijn gerealiseerd onder architectuur. &#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;De Enterprise Architectuur beschrijft een samenhangend geheel van fundamentele concepten en/of eigenschappen van het Kadaster-systeem in termen van componenten, relaties tussen deze componenten en de principes die richting geven aan het ontwerp en de ontwikkeling van het systeem gericht op het realiseren van (strategische) doelen.&#xD;&#xA;&#xD;&#xA;Elk verandertraject moet aantoonbaar bijdragen aan het realiseren van het Kadaster dat we willen zijn.  Dit betekent niet alleen dat we een 'punt op de horizon' bereiken, maar ook dat we in een dialoog met alle betrokken stakeholders dat punt bereiken of expliciet overwegen op onderdelen ergens anders uit te komen.&#xD;&#xA;&#xD;&#xA;TOELICHTING&#xD;&#xA;=========&#xD;&#xA;Fundamenteel: omdat architectuur niet alles beschrijft, maar zich beperkt tot dat wat essentieel is met het oog op de voor Kadaster vereiste wendbaarheid. In die zin is architectuur wezenlijk iets anders dan een ontwerp van een systeem.&#xD;&#xA;&#xD;&#xA;Systeem: als het samenhangend geheel van mensen, processen, faciliteiten, materialen, hardware, software, data en eventuele natuurlijke bronnen (ISO 15288).">
+  <properties
+      key="Identificatie"
+      value="EP07"/>
+  <properties
+      key="Sinds"
+      value="25-01-2018"/>
+  <properties
+      key="Versie"
+      value="1.0"/>
+  <properties
+      key="Thema"
+      value="Implementatie, Beheer"/>
+</archimate:Principle>

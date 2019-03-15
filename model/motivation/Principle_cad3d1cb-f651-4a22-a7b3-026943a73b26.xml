@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toestemming eigenaren"
+    id="cad3d1cb-f651-4a22-a7b3-026943a73b26"
+    documentation="Bron:&#xD;&#xA;V:\IT\Architectuur\Veranderen onder architectuur\00029-Bron_V6.docx&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;...&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Het regelen van toestemmingen en doelbindingen is ene voorwaarden voor het bieden van zekerheid in het gebruik van informatie.&#xD;&#xA;&#xD;&#xA;TOELICHTING&#xD;&#xA;=========&#xD;&#xA;Dit principe is eerder geformuleerd als “Wij bedienen onze klanten in één keer goed: juist, tijdig en volledig”&#xD;&#xA;">
+  <properties
+      key="Identificatie"
+      value="DV1"/>
+  <properties
+      key="Sinds"
+      value="01-06-2019"/>
+  <properties
+      key="Versie"
+      value="1.0"/>
+  <properties
+      key="Thema"
+      value="Klant, Platform, Bedrijfsvoering"/>
+</archimate:Principle>

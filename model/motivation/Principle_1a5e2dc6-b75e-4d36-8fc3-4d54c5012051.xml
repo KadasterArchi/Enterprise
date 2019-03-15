@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantiek Informatie objecten"
+    id="1a5e2dc6-b75e-4d36-8fc3-4d54c5012051"
+    documentation="Bron:&#xD;&#xA;V:\IT\Architectuur\Veranderen onder architectuur\00029-Bron_V6.docx&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;De semantiek van onze informatie objecten sluit aan op die van andere overheden.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Informatie wordt ontsloten op basis van een gegevenscatalogus. Belangrijk is dat de semantiek in de gegevenscatalogus aansluit op andere gegevens van de overheid. Deze gegevenscatalogus moet tot stand komen met andere partijen in het eco-systeem. Een dergelijke semantiek is een voorwaarde voor het in samenhang kunnen opvragen van informatie.&#xD;&#xA;&#xD;&#xA;INFORMATIE">
+  <properties
+      key="Identificatie"
+      value="EP01"/>
+  <properties
+      key="Sinds"
+      value="01-01-2019"/>
+  <properties
+      key="Versie"
+      value="0.9"/>
+  <properties
+      key="Thema"
+      value="Platform"/>
+</archimate:Principle>

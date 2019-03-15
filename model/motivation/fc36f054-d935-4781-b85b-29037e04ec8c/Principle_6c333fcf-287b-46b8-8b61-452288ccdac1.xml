@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtuele werkplaats"
+    id="6c333fcf-287b-46b8-8b61-452288ccdac1"
+    documentation="Bron:&#xD;&#xA;V:\IT\Architectuur\Veranderen onder architectuur\00029-Bron_V6.docx&#xD;&#xA;&#xD;&#xA;Statement:&#xD;&#xA;Dienstverlening is ingericht vanuit het vraagstuk van de afnemer.&#xD;&#xA;&#xD;&#xA;Rationale:&#xD;&#xA;Het verder invulling geven aan een ‘virtuele’ plek waar data en kennis gematched kunnen worden met de vragende afnemer (klant of medewerker). Blijvend nadenken over de te hanteren concepten en met wie we op welke wijze samenwerken. Een zogenoemde 'virtuele werkplaats' is een wezenlijk ander concept dan 'traditioneel' leveren van informatie. Het is een concept waarbij partijen in een ecosysteem gebruik maken van gegevens voor hun vraagstukken en/of deze verrijken vanuit hun eigen bedrijfsvoering. Dergelijke virtuele communities leiden er bovendien toe dat er nieuwe mogelijkheden worden ontdekt voor het platform.&#xD;&#xA;&#xD;&#xA;TOELICHTING&#xD;&#xA;=========&#xD;&#xA;Dit principe is niet beperkt tot externe partijen in het ecosysteem, maar intern zowel als extern. Dit principe is overigens niet dwingend voor alle verandertrrajecten, maar moet wel expliciet een overweging zijn in de strategische dialoog met betrokken stakeholders.">
+  <properties
+      key="Identificatie"
+      value="DV2"/>
+  <properties
+      key="Sinds"
+      value="01-06-2019"/>
+  <properties
+      key="Versie"
+      value="1.0"/>
+  <properties
+      key="Thema"
+      value="Klant, Platform, Bedrijfsvoering"/>
+</archimate:Principle>
