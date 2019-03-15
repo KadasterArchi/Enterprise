@@ -362,18 +362,4 @@
         xsi:type="archimate:Principle"
         href="Principle_13d86e45-6944-424a-9992-ee4f6482ee76.xml#13d86e45-6944-424a-9992-ee4f6482ee76"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="618157fb-c3dc-40e4-ab9c-fff901877f48"
-      fontColor="#ffffff"
-      fillColor="#0080ff">
-    <bounds
-        x="948"
-        y="384"
-        width="217"
-        height="49"/>
-    <archimateElement
-        xsi:type="archimate:Principle"
-        href="Principle_cad3d1cb-f651-4a22-a7b3-026943a73b26.xml#cad3d1cb-f651-4a22-a7b3-026943a73b26"/>
-  </children>
 </archimate:ArchimateDiagramModel>
