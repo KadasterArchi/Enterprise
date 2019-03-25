@@ -368,17 +368,4 @@
           href="Assessment_f2ffed17-b2c7-46ce-bb64-8ba1c23f74ca.xml#f2ffed17-b2c7-46ce-bb64-8ba1c23f74ca"/>
     </children>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="fc1bf20c-7e9e-44a6-8a10-fd0d6f0a4253"
-      textPosition="1">
-    <bounds
-        x="454"
-        y="505"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Assessment"
-        href="Assessment_f2ffed17-b2c7-46ce-bb64-8ba1c23f74ca.xml#f2ffed17-b2c7-46ce-bb64-8ba1c23f74ca"/>
-  </children>
 </archimate:ArchimateDiagramModel>
